@@ -7,7 +7,7 @@ import java.util.*;
 
 class Puissance4 implements ActionListener 
 {
-    
+    /* test */ 
     /* La grille */
     JFrame frame = new JFrame();
     /* les buttons */
